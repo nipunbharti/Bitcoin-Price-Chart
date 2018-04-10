@@ -1,0 +1,26 @@
+{
+  "name": "bitcoin-price-chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "moment": "^2.22.0",
+    "mongoose": "^5.0.14",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nipunbharti/Bitcoin-Price-Chart.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nipunbharti/Bitcoin-Price-Chart/issues"
+  },
+  "homepage": "https://github.com/nipunbharti/Bitcoin-Price-Chart#readme"
+}
